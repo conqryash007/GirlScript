@@ -1,4 +1,4 @@
-# GIRLSCRIPT TECH WEBSITE
+#  ![alt text](https://avatars.githubusercontent.com/u/27850350?s=200&v=4) GIRLSCRIPT TECH WEBSITE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
