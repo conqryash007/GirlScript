@@ -1,5 +1,7 @@
 #  ![alt text](https://avatars.githubusercontent.com/u/27850350?s=200&v=4) GIRLSCRIPT TECH WEBSITE 🔥🔥🔥
 
+## FRONTEND WAS CONTRIBUTED BY @gospeller986  SATYAJIT PAL 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## BEFORE RUNNING THE REACT APP ON YOUR DESKTOP  🏃‍♂️🏃‍♂️🏃‍♂️
