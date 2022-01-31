@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GirlScript/static/css/main.e6c13ad2.css",
+    "main.js": "/GirlScript/static/js/main.a943e8ea.js",
+    "static/js/787.ec704a7a.chunk.js": "/GirlScript/static/js/787.ec704a7a.chunk.js",
+    "static/media/kamini.jpg": "/GirlScript/static/media/kamini.0185d4b98a425a715368.jpg",
+    "static/media/manas.jpg": "/GirlScript/static/media/manas.9498dbacbec3dbab4235.jpg",
+    "static/media/muskan.jpg": "/GirlScript/static/media/muskan.d10d55599a7c8aac79db.jpg",
+    "static/media/harsha.jpg": "/GirlScript/static/media/harsha.58b3c04be9d3e97eb985.jpg",
+    "static/media/tejasi.jpeg": "/GirlScript/static/media/tejasi.b3e47625979a51a4bc6d.jpeg",
+    "static/media/certificate.jpg": "/GirlScript/static/media/certificate.a5f2f8c8e03bf7a71a46.jpg",
+    "static/media/dummy.jpg": "/GirlScript/static/media/dummy.edca21f8c98d7ceedb1f.jpg",
+    "static/media/MicrosoftLogo.png": "/GirlScript/static/media/MicrosoftLogo.80ea89c4aec6f01aea3f.png",
+    "index.html": "/GirlScript/index.html",
+    "main.e6c13ad2.css.map": "/GirlScript/static/css/main.e6c13ad2.css.map",
+    "main.a943e8ea.js.map": "/GirlScript/static/js/main.a943e8ea.js.map",
+    "787.ec704a7a.chunk.js.map": "/GirlScript/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a943e8ea.js"
+  ]
+}
