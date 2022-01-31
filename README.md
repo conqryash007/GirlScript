@@ -1,9 +1,16 @@
-# Getting Started with Create React App
+#  ![alt text](https://avatars.githubusercontent.com/u/27850350?s=200&v=4) GIRLSCRIPT TECH WEBSITE 🔥🔥🔥
+
+## FRONTEND WAS CONTRIBUTED BY @gospeller986  SATYAJIT PAL 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## BEFORE RUNNING THE REACT APP ON YOUR DESKTOP  🏃‍♂️🏃‍♂️🏃‍♂️
+## START BY CLONING THIS REPOSITORY 🔥🔥🔥
 
+### INSTALL ALL THE DEPENDENCIES 🧱🧱🧱
+### `npm i`
+
+## YOU ARE READY TO ROCK 🚀🚀🚀
 In the project directory, you can run:
 
 ### `npm start`
