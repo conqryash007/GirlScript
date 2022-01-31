@@ -18,6 +18,7 @@ function App() {
   return (
        <Routes>
          <Route exact path ="/" element = {<Main/>} /> 
+         <Route exact path ="/Girlscript" element = {<Main/>} /> 
          <Route path = "/about"  element = {<AboutUs/>}/>
          <Route path = "/contact"  element = {<Contact/>}/>
          <Route path = "/track"  element = {<Track/>}/>
