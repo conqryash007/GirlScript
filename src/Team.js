@@ -11,6 +11,7 @@ import kamini from "./images/kamini.jpg";
 import muskan from "./images/muskan.jpg";
 import manas from "./images/manas.jpg";
 import harsha from "./images/harsha.jpg";
+import tejasi from "./images/tejasi.jpeg";
 
 
 
@@ -119,7 +120,16 @@ const useStyles = makeStyles((theme) => ({
        display : "flex" ,
        justifyContent : "center",
        justifyItems : "center",
-    }
+    },
+
+    imm : { 
+       overFlow : "hidden",
+       objectFit : "cover" ,
+       position : "center",
+       display : "flex",
+       justifyContent : "center",
+       justifyItem : "center" ,
+    },
 
   
 
@@ -150,7 +160,7 @@ const classes = useStyles();
              <div className={classes.details} >
                <div className={classes.name}  >
                    <h3>Kamini</h3>
-                   <h4>Youth Coordinator</h4>
+                   <h4>Program Coordinator</h4>
                </div>
                
               <IconButton href="https://www.linkedin.com/in/kamini-singh-619483204">
@@ -175,7 +185,7 @@ const classes = useStyles();
             <div className={classes.details} >
                <div className={classes.name}  >
                    <h3>Muskan</h3>
-                   <h4>Youth Coordinator</h4>
+                   <h4>Program Coordinator</h4>
                </div>
                
               <IconButton href="https://www.linkedin.com/in/muskan-bansal-095601189">
@@ -199,7 +209,7 @@ const classes = useStyles();
             <div className={classes.details} >
                <div className={classes.name}  >
                    <h3>Manas</h3>
-                   <h4>Youth Coordinator</h4>
+                   <h4>Program Coordinator</h4>
                </div>
                
               <IconButton href="https://linkedin.com/in/cyberbuddy-manas">
@@ -218,11 +228,11 @@ const classes = useStyles();
             </Paper> 
 
             <Paper elevation={20} className = {classes.paper4} md={6} >
-            <img src={harsha} alt = "dummy" width= "100%" height="75%" />
+            <img src={harsha} alt = "dummy" width= "100%" height="78%" />
             <div className={classes.details} >
                <div className={classes.name}  >
                    <h3>Harsha</h3>
-                   <h4>Youth Coordinator</h4>
+                   <h4>Program Coordinator</h4>
                </div>
                
               <IconButton href = "https://www.linkedin.com/in/harsha-bajaj-398323200" >
@@ -241,17 +251,17 @@ const classes = useStyles();
             </Paper> 
 
             <Paper elevation={20} className = {classes.paper5} md={6} >
-            <img src={dummy} alt = "dummy" width= "100%" height="75%" />
+            <img className={classes.imm} src={tejasi} alt = "dummy" width= "100%" height="78%" overFlow="hidden"  />
             <div className={classes.details} >
                <div className={classes.name}  >
-                   <h3>Rishikesh</h3>
-                   <h4>Youth Coordinator</h4>
+                   <h3>Tejasi</h3>
+                   <h4>Program Coordinator</h4>
                </div>
                
-              <IconButton href="">
+              <IconButton href="https://www.linkedin.com/in/tejasi-mangale-15a0821a9"  >
                 <LinkedInIcon/>
               </IconButton>
-              <IconButton href="" >
+              <IconButton href="https://twitter.com/Tejasi7?t=ichfZ-yswKOUN9jzicLXlg&s=08" >
                 <TwitterIcon/>
               </IconButton>
               <IconButton>
